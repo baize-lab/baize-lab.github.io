@@ -1,0 +1,24 @@
+# Founder Name — placeholder
+
+> A bilingual founder personal-IP site for essays, projects, and future products.
+
+This is a bilingual (English / 中文) personal site. English pages are under /en/, Chinese under /zh/.
+
+## Key pages (English)
+- [Home](https://example.com/en/): Who I am, what I do, and how to work with me.
+- [About](https://example.com/en/about/): Background, focus areas, and credibility.
+- [Projects](https://example.com/en/projects/): Proof-of-work: what I've designed, built, and shipped.
+- [Writing](https://example.com/en/posts/): Technical essays and founder notes.
+- [Now](https://example.com/en/now/): What I'm currently building and thinking about.
+- [Work with me](https://example.com/en/work-with-me/): Collaboration, advisory, and how to reach me.
+
+## 主要页面 (中文)
+- [Home](https://example.com/zh/): Who I am, what I do, and how to work with me.
+- [About](https://example.com/zh/about/): Background, focus areas, and credibility.
+- [Projects](https://example.com/zh/projects/): Proof-of-work: what I've designed, built, and shipped.
+- [Writing](https://example.com/zh/posts/): Technical essays and founder notes.
+- [Now](https://example.com/zh/now/): What I'm currently building and thinking about.
+- [Work with me](https://example.com/zh/work-with-me/): Collaboration, advisory, and how to reach me.
+
+## Notes
+- Author: Founder Name (TBD)
