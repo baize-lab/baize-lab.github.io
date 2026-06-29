@@ -1,24 +1,24 @@
-# Founder Name — placeholder
+# 白泽 — 跨领域建造者，把成败都讲透
 
-> A bilingual founder personal-IP site for essays, projects, and future products.
+> 独立做产品的人。这里是我的项目、踩过的坑，和能帮到你的东西。不贩卖焦虑，少废话多出货。
 
 This is a bilingual (English / 中文) personal site. English pages are under /en/, Chinese under /zh/.
 
 ## Key pages (English)
-- [Home](https://example.com/en/): Who I am, what I do, and how to work with me.
-- [About](https://example.com/en/about/): Background, focus areas, and credibility.
-- [Projects](https://example.com/en/projects/): Proof-of-work: what I've designed, built, and shipped.
-- [Writing](https://example.com/en/posts/): Technical essays and founder notes.
-- [Now](https://example.com/en/now/): What I'm currently building and thinking about.
-- [Work with me](https://example.com/en/work-with-me/): Collaboration, advisory, and how to reach me.
+- [Home](https://baize-lab.github.io/en/): Who I am, what I do, and how to work with me.
+- [About](https://baize-lab.github.io/en/about/): Background, focus areas, and credibility.
+- [Projects](https://baize-lab.github.io/en/projects/): Proof-of-work: what I've designed, built, and shipped.
+- [Writing](https://baize-lab.github.io/en/posts/): Technical essays and founder notes.
+- [Now](https://baize-lab.github.io/en/now/): What I'm currently building and thinking about.
+- [Work with me](https://baize-lab.github.io/en/work-with-me/): Collaboration, advisory, and how to reach me.
 
 ## 主要页面 (中文)
-- [Home](https://example.com/zh/): Who I am, what I do, and how to work with me.
-- [About](https://example.com/zh/about/): Background, focus areas, and credibility.
-- [Projects](https://example.com/zh/projects/): Proof-of-work: what I've designed, built, and shipped.
-- [Writing](https://example.com/zh/posts/): Technical essays and founder notes.
-- [Now](https://example.com/zh/now/): What I'm currently building and thinking about.
-- [Work with me](https://example.com/zh/work-with-me/): Collaboration, advisory, and how to reach me.
+- [Home](https://baize-lab.github.io/zh/): Who I am, what I do, and how to work with me.
+- [About](https://baize-lab.github.io/zh/about/): Background, focus areas, and credibility.
+- [Projects](https://baize-lab.github.io/zh/projects/): Proof-of-work: what I've designed, built, and shipped.
+- [Writing](https://baize-lab.github.io/zh/posts/): Technical essays and founder notes.
+- [Now](https://baize-lab.github.io/zh/now/): What I'm currently building and thinking about.
+- [Work with me](https://baize-lab.github.io/zh/work-with-me/): Collaboration, advisory, and how to reach me.
 
 ## Notes
-- Author: Founder Name (TBD)
+- Author: 白泽
