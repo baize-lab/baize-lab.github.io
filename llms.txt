@@ -1,6 +1,6 @@
-# 白泽 — 跨领域建造者，把成败都讲透
+# 白泽 — 跨界技术建造者 · 金融 × 区块链 × AI
 
-> 独立做产品的人。这里是我的项目、踩过的坑，和能帮到你的东西。不贩卖焦虑，少废话多出货。
+> 在金融、区块链、AI 的交叉点造产品。把复杂系统做到能上线——这里是我的项目、复盘，和能帮到你的东西。
 
 This is a bilingual (English / 中文) personal site. English pages are under /en/, Chinese under /zh/.
 
